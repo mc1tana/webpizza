@@ -1,0 +1,1 @@
+le repertoire de config contient toutes les donnees de configuration de l'application

@@ -1,0 +1,2 @@
+repertoir "public/" est le repertoire qu' on appel "DocumentRoot"
+c'est le seul repertoire de l'pplication accessible publiquement
