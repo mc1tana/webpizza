@@ -1,0 +1,7 @@
+[Tue Jul 09 10:22:25.896209 2019] [php7:crit] [pid 4124:tid 1964] [client 127.0.0.1:55859] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in C:\\xampp\\htdocs\\webpizza\\app\\app.php on line 16
+[Tue Jul 09 10:22:54.881397 2019] [php7:crit] [pid 4124:tid 1964] [client 127.0.0.1:55886] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in C:\\xampp\\htdocs\\webpizza\\app\\app.php on line 17
+[Tue Jul 09 10:25:21.760932 2019] [php7:crit] [pid 4124:tid 1984] [client 127.0.0.1:56006] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in C:\\xampp\\htdocs\\webpizza\\app\\app.php on line 17
+[Tue Jul 09 12:19:09.799718 2019] [php7:crit] [pid 7356:tid 1984] [client 127.0.0.1:61864] PHP Parse error:  syntax error, unexpected ',' in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 39
+[Tue Jul 09 12:19:37.461480 2019] [php7:crit] [pid 7356:tid 2004] [client 127.0.0.1:61890] PHP Parse error:  syntax error, unexpected ',' in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 39
+[Thu Jul 11 09:55:12.124532 2019] [php7:crit] [pid 1120:tid 1996] [client 127.0.0.1:51473] PHP Parse error:  syntax error, unexpected ',' in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 39
+[Thu Jul 11 14:25:20.827325 2019] [php7:crit] [pid 1120:tid 1988] [client 127.0.0.1:58421] PHP Parse error:  syntax error, unexpected ',' in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 39

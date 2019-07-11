@@ -1,1 +1,1 @@
-le repertoire src contient le dev de la partie metier de l'appli
+le repertoire src contient le dev de la partie metier de l'app
