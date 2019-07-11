@@ -10,7 +10,7 @@ require_once "../config/config.php";
 echo WEBSITE_TITLE;
 
 // 3.definition de l'environnement 
-
+    require_once "../app/environnement.php";
 //4.comportement erreur 
-
+require_once "err-reporing.php"
 //connexion a la base de donnee
